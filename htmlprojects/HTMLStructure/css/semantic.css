@@ -1,0 +1,28 @@
+body {
+    background-color: Orange;
+}
+.header {
+    border: 5px solid green;
+    text-align: center;
+}
+.footer {
+    border: 5px solid green;
+    text-align: center;
+}
+.nav {
+    border: 5px solid red;
+    text-align: center;
+}
+
+.section {
+    border: 5px solid black;
+    width:50%;
+    height: 800px;
+    text-align: center;
+}
+.article {
+    border: 5px solid blue;
+    width:99%;
+    height: 350px;
+    margin-top:400px
+}

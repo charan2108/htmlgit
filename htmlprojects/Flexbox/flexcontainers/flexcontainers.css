@@ -1,0 +1,18 @@
+html { box-sizing: border-box; }
+, :before, *:after { box-sizing: inherit; }
+.container {
+background-color: wheat;
+font-size: 2rem;
+font-family: arial;
+font-weight: bold;
+width: 1200px;
+text-align: center
+border: solid 2px brown; }
+.item {
+padding: 10px;
+color: white;
+border-radius: 30px;
+height: 180px;
+width: 180px;
+padding-top:60px; }
+.color1 {background-color: red;}
